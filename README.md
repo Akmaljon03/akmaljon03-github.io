@@ -1,18 +1,8 @@
-Elaman Toktoshev, [06.01.2022 23:55]
 https://drive.google.com/drive/folders/1ZucaIjPMT2jqIQwhKbVs5x8LT2hA3BG4?usp=sharing
-
-Elaman Toktoshev, [06.01.2022 23:59]
-[ Альбом ]
-
-Elaman Toktoshev, [06.01.2022 23:59]
-[ Альбом ]
-
-Elaman Toktoshev, [07.01.2022 0:01]
 This is site to Ala too International University
 
 We used HTML, CSS, JS, BOOTSTRAP, JQUERY
 
-Elaman Toktoshev, [07.01.2022 0:07]
 # website-to-Alatoo
 
 
